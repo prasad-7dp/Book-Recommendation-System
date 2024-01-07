@@ -1,3 +1,1 @@
-# Book-Recommendation-System
-
-**This is developed using NLP for recommandations and website by Streamlit**
+Books-Recommender-System-Using-Machine-Learning
